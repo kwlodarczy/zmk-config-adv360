@@ -1,6 +1,6 @@
-  macro_dylan: macro_dylan {
+  macro_dylan2: macro_dylan2 {
     compatible = "zmk,behavior-macro";
-    label = "macro_dylan";
+    label = "macro_dylan2";
     #binding-cells = <0>;
     bindings = <&kp D>, <&kp Y>, <&kp L>, <&kp A>, <&kp N>,;
   };
