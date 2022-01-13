@@ -1,8 +1,8 @@
-  macro_dylan4: macro_dylan4 {
+  macro_dylan5: macro_dylan5 {
     compatible = "zmk,behavior-macro";
     label = "macro_dylan4";
     #binding-cells = <0>;
-    bindings = <&kp P>, <&kp A>, <&kp S>, <&kp T>, <&kp A>;
+    bindings = <&kp H>, <&kp E>, <&kp L>, <&kp L>, <&kp O>;
   };
   macro_dquotes: macro_dquotes {
     compatible = "zmk,behavior-macro";
